@@ -8,21 +8,21 @@
 
 <p align="center">
   <b>Detect flags in images and videos using YOLOv8 + a global-scale dataset.</b><br>
-  Real-time, high-accuracy detection powered by a custom-trained object detection model 🌍
+  Real-time, high-accuracy detection powered by a custom-trained object detection model
 </p>
 
 ---
 
-## 🆕 What's New?
+## What's New?
 
-- 🔁 Switched from a smaller South American dataset to a **massive global flag dataset**
-- 📂 The new dataset includes **hundreds of country and regional flags**
-- 🧠 Retrained the model with **YOLOv8 Medium (yolov8m)** for higher accuracy
-- 📈 Achieved better generalization, precision, and real-world reliability
+- Switched from a smaller South American dataset to a **massive global flag dataset**
+- The new dataset includes **hundreds of country and regional flags**
+- Retrained the model with **YOLOv8 Medium (yolov8m)** for higher accuracy
+- Achieved better generalization, precision, and real-world reliability
 
 ---
 
-## 📸 Demo
+## Demo
 
 <p align="center">
   <img src="results/val_batch1_pred.jpg" alt="demo" width="70%">
@@ -30,17 +30,17 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🌍 Trained on a large-scale **worldwide flag dataset**
-- ⚡ Real-time performance using YOLOv8
-- 🎯 High accuracy and clean predictions
-- 🖼️ Works with images, video, and webcam
-- 📊 Full visual evaluation (PR curves, confusion matrices, etc.)
+- Trained on a large-scale **worldwide flag dataset**
+- Real-time performance using YOLOv8
+- High accuracy and clean predictions
+- Works with images, video, and webcam
+- Full visual evaluation (PR curves, confusion matrices, etc.)
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - [YOLOv8 (Ultralytics)](https://github.com/ultralytics/ultralytics)
 - Python 3.10+
