@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>YOLOv8-based object detection model to recognize South American flags.</b><br>
-  <i>Trained on a custom dataset with 13 country flags, evaluated using precision, recall, and confusion matrix.</i>
+  <i>Trained on a custom dataset with 12 country flags, evaluated using precision, recall, and confusion matrix.</i>
 </p>
 
 <p align="center">
