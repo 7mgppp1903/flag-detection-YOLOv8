@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/YOLOv8-ultralytics-blue" />
   <img src="https://img.shields.io/github/last-commit/7mgppp1903/flag-detection-YOLOv8" />
   <img src="https://img.shields.io/github/languages/top/7mgppp1903/flag-detection-YOLOv8" />
-  <img src="https://img.shields.io/badge/Made%20With-%F0%9F%94%A5Python-blue" />
 </p>
 
 ---
