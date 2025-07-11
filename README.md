@@ -15,7 +15,7 @@ This dataset contains labeled images of **South American flags** formatted for *
 
 **Created by [Miilee Sharma](https://github.com/7mgppp1903) and [Ishan Chauhan](https://github.com/IntPetro)**
 
-**Note:** For more information, usage instructions, and full dataset documentation, please visit the [Hugging Face Dataset Page](https://huggingface.co/datasets/7mgppp/south-american-flags/blob/main/README.mds).
+**Note:** For more information, usage instructions, and full dataset documentation, please visit the [Hugging Face Dataset Page](https://huggingface.co/datasets/7mgppp/south-american-flags/tree/main).
 
 ---
 
