@@ -17,7 +17,6 @@
 
 - Switched from a smaller South American dataset to a **massive global flag dataset**
 - The new dataset includes **hundreds of country and regional flags**
-- Retrained the model with **YOLOv8 Medium (yolov8m)** for higher accuracy
 - Achieved better generalization, precision, and real-world reliability
 
 ---
