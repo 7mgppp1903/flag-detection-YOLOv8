@@ -1,4 +1,4 @@
-<h1 align="center">🚩 Flag Detection using YOLOv8</h1>
+<h1 align="center">Flag Detection using YOLOv8</h1>
 
 <p align="center">
   <b>Custom object detection for South American country flags using Ultralytics YOLOv8</b><br>
@@ -14,14 +14,14 @@
 
 ---
 
-## 🧠 Overview
+## Overview
 
-This repository contains a YOLOv8-based pipeline to **detect and classify flags** from 13 South American countries. It includes:
+This repository contains a YOLOv8-based pipeline to **detect and classify flags** from 12 South American countries. It includes:
 
-- ⚙️ Custom training pipeline
-- 🏷️ Clean dataset organization
-- 📈 Training results with metrics
-- 🧪 Inference scripts with pretrained weights
+- Custom training pipeline
+- Clean dataset organization
+- Training results with metrics
+- Inference scripts with pretrained weights
 
 ---
 
