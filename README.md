@@ -1,4 +1,3 @@
-
 <h1 align="center">🏁 Flag Detection using YOLOv8</h1>
 
 <p align="center">
@@ -8,9 +7,18 @@
 </p>
 
 <p align="center">
-  <b>Detect flags in images and videos using YOLOv8 + custom dataset.</b><br>
-  Real-time, lightweight, and built for speed ⚡
+  <b>Detect flags in images and videos using YOLOv8 + a global-scale dataset.</b><br>
+  Real-time, high-accuracy detection powered by a custom-trained object detection model 🌍
 </p>
+
+---
+
+## 🆕 What's New?
+
+- 🔁 Switched from a smaller South American dataset to a **massive global flag dataset**
+- 📂 The new dataset includes **hundreds of country and regional flags**
+- 🧠 Retrained the model with **YOLOv8 Medium (yolov8m)** for higher accuracy
+- 📈 Achieved better generalization, precision, and real-world reliability
 
 ---
 
@@ -24,26 +32,25 @@
 
 ## 🚀 Features
 
-- 🎯 **YOLOv8-based** object detection
-- 🏳️ **Custom-trained** on flag images
-- 🖼️ Supports images, videos, and real-time webcam
-- 📊 Visualization: PR curves, confusion matrix, predictions
-- 🧠 Scalable with more flag classes
+- 🌍 Trained on a large-scale **worldwide flag dataset**
+- ⚡ Real-time performance using YOLOv8
+- 🎯 High accuracy and clean predictions
+- 🖼️ Works with images, video, and webcam
+- 📊 Full visual evaluation (PR curves, confusion matrices, etc.)
 
 ---
 
 ## 🧰 Tech Stack
 
-> Powered by [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
-
-- `Python 3.10+`
-- `YOLOv8 (Ultralytics)`
-- `PyTorch`
-- `OpenCV` for inference
-- `Matplotlib`, `Seaborn` for result plots
+- [YOLOv8 (Ultralytics)](https://github.com/ultralytics/ultralytics)
+- Python 3.10+
+- PyTorch
+- OpenCV
+- Matplotlib & Seaborn
 
 ---
 
 <details>
 <summary>📁 Project Structure (click to expand)</summary>
+
 
