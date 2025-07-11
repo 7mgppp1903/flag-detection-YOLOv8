@@ -1,4 +1,4 @@
-<h1 align="center">🏁 Flag Detection using YOLOv8</h1>
+<h1 align="center">Flag Detection using YOLOv8</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/7mgppp1903/flag-detection-YOLOv8?style=for-the-badge" />
@@ -51,6 +51,6 @@
 ---
 
 <details>
-<summary>📁 Project Structure (click to expand)</summary>
+<summary>Project Structure (click to expand)</summary>
 
 
