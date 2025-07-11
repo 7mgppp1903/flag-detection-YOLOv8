@@ -54,9 +54,9 @@
 
 ## 📂 Dataset Source
 
-The project originally used a small custom-labeled dataset focused on South American flags. To scale the project and improve detection accuracy, we switched to a much larger and publicly available dataset:
+The project originally used a small custom-labeled dataset focused on South American flags. To scale the project and improve detection accuracy, I switched to a much larger and publicly available dataset:
 
-- **[Open Images Dataset V6](http://storage.googleapis.com/openimages/web/index.html)** by Google AI
+- **[Open Images Dataset V6](http://storage.googleapis.com/openimages/web/index.html)** 
 - Contains thousands of flag instances from various countries and regions with verified bounding boxes
 
 **Reference Paper**  
