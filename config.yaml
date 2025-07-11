@@ -1,4 +1,4 @@
-path: C:\Users\Ishan\Documents\Test Images\FlagDetect.v1i.yolov8
+path: C:\Users\Miilee\Documents\Test Images\FlagDetect.v1i.yolov8
 train: train\images
 val: valid\images
 
