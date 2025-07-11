@@ -8,7 +8,7 @@
 ##  Our Dataset
 
 **Download Link:**  
-[**FlagDetect.v1i.yolov8.zip (386 MB)**](https://huggingface.co/datasets/7mgppp/south-american-flags/blob/main/FlagDetect.v1i.yolov8.zip)
+[**FlagDetect.v1i.yolov8.zip (386 MB)**](https://huggingface.co/datasets/7mgppp/south-american-flags/tree/main)
 
 **Description:**  
 This dataset contains labeled images of **South American flags** formatted for **YOLOv8** object detection. It includes:
