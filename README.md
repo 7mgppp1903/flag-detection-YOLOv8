@@ -74,7 +74,6 @@ All evaluation results and metrics are stored in the `training-results/` folder:
 | `results.png` | Loss and metric graphs |
 | `val_batch*_labels.jpg` | Ground truth annotations |
 | `val_batch*_pred.jpg` | Model predictions |
-| `weights/best.pt` | Trained YOLOv8 model |
 
 ---
 
