@@ -10,7 +10,7 @@
 ---
 
 
-## 🛠️ Tools & Tech Used
+## Tools & Tech Used
 
 - Python
 - Ultralytics YOLOv8
