@@ -11,7 +11,7 @@
 [**FlagDetect.v1i.yolov8.zip (386 MB)**](https://huggingface.co/datasets/7mgppp/south-american-flags/tree/main)
 
 **Description:**  
-This dataset contains labeled images of **South American flags** formatted for **YOLOv8** object detection. It includes:
+This dataset contains labeled images of **South American flags** formatted for **YOLOv8** object detection.
 
 **Created by [Miilee Sharma](https://github.com/7mgppp1903) and [Ishan Chauhan](https://github.com/IntPetro)**
 
