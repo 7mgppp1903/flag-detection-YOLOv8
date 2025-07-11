@@ -1,4 +1,3 @@
-# flag-detection-YOLOv8
 
 <h1 align="center">🏁 Flag Detection using YOLOv8</h1>
 
