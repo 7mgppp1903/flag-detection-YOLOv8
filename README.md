@@ -1,4 +1,4 @@
-<h1 align="center">🚩 Flag Detection with YOLOv8</h1>
+<h1 align="center">Flag Detection with YOLOv8</h1>
 
 <p align="center">
   <b>YOLOv8-based object detection model to recognize South American flags.</b><br>
