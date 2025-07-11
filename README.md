@@ -46,27 +46,29 @@
 | **No of Classes** | 12 |
 
 <details>
-<summary><b>Precision-Recall Curve</b></summary>
+<summary><strong>📈 Precision-Recall Curve</strong></summary>
 
-![PR Curve](training-results/PR_curve.png)
+<p align="center">
+  <img src="training-results/PR_curve.png" width="600"/>
+</p>
 
 </details>
 
 <details>
-<summary><b>Confusion Matrix</b></summary>
+<summary><strong>🧩 Confusion Matrix</strong></summary>
 
-<table>
-<tr>
-<td><img src="training-results/confusion_matrix.png" width="350"/></td>
-<td><img src="training-results/confusion_matrix_normalized.png" width="350"/></td>
-</tr>
-</table>
+<p align="center">
+  <img src="training-results/confusion_matrix.png" width="400"/>
+  <img src="training-results/confusion_matrix_normalized.png" width="400"/>
+</p>
 
 </details>
 
 ---
 
-## Supported Classes
+## 🧠 Supported Classes
 
-> YOLOv8 is trained on 13 flags:
+> YOLOv8 is trained on **13** flags:
+
+
 
