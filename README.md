@@ -41,7 +41,7 @@
 ## Tech Stack
 
 - [YOLOv8 (Ultralytics)](https://github.com/ultralytics/ultralytics)
-- Python 3.10+
+- Python 3.10
 - PyTorch
 - OpenCV
 - Matplotlib & Seaborn
