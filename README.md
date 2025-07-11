@@ -5,11 +5,7 @@
   <i>Trained on a custom dataset with 12 country flags, evaluated using precision, recall, and confusion matrix.</i>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/7mgppp1903/flag-detection-YOLOv8?color=blue" />
-  <img src="https://img.shields.io/github/last-commit/7mgppp1903/flag-detection-YOLOv8?color=green" />
-  <img src="https://img.shields.io/badge/YOLOv8-Ultralytics-red" />
-</p>
+
 
 ---
 
