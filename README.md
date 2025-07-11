@@ -13,11 +13,6 @@
 **Description:**  
 This dataset contains labeled images of **South American flags** formatted for **YOLOv8** object detection. It includes:
 
-- Training images  
-- Validation images  
-- Test images  
-- Bounding box annotations in YOLOv8 format
-
 **Created by [Miilee Sharma](https://github.com/7mgppp1903) and [Ishan Chauhan](https://github.com/IntPetro)**
 
 ---
