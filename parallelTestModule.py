@@ -31,9 +31,6 @@ class ParallelExtractor:
         for pid in range(numProcesses):
             pr = Process(target=prunner.runp, args=(pid, numThreads)) 
             myprocs.append(pr) 
-#        if __name__ == 'parallelTestModule':    #This didnt work
-#        if __name__ == '__main__':              #This obviously doesnt work
-#        multiprocessing.freeze_support()        #added after seeing error to no avail
         for i in myprocs:
             i.start()
 
