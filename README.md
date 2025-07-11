@@ -78,8 +78,8 @@ All evaluation results and metrics are stored in the `training-results/` folder:
 ---
 ## Contributors
 
-- [Ishan Chauhan](https://github.com/IntPetro)  
 - [Miilee Sharma](https://github.com/7mgppp1903)
+- [Ishan Chauhan](https://github.com/IntPetro)  
 
 
 
