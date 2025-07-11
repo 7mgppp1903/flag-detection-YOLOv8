@@ -57,7 +57,7 @@
 The project originally used a small custom-labeled dataset focused on South American flags. To scale the project and improve detection accuracy, I switched to a much larger and publicly available dataset:
 
 - **[Open Images Dataset V6](http://storage.googleapis.com/openimages/web/index.html)** 
-- Contains thousands of flag instances from various countries and regions with verified bounding boxes
+- contains 2,785,498 instance segmentations from various countries and regions with verified bounding boxes
 
 **Reference Paper**  
 Kuznetsova et al., *The Open Images Dataset V6: A Large-Scale Benchmark for Object Detection*, 2018  
