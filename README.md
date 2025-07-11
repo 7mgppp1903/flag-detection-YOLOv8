@@ -13,10 +13,10 @@
 
 ---
 
-## 📸 Demo
+## Demo
 
 <details>
-<summary><b>🎯 Example Predictions (click to view)</b></summary>
+<summary><b>Example Predictions (click to view)</b></summary>
 
 <table>
 <tr>
@@ -42,18 +42,18 @@
 | Metric | Value |
 |--------|-------|
 | **mAP@0.5** | `0.888` |
-| **Best Class** | 🇬🇾 *Guyana Flag* (0.984) |
+| **Best Class** |  Guyana Flag (0.984) |
 | **No of Classes** | 12 |
 
 <details>
-<summary><b>📈 Precision-Recall Curve</b></summary>
+<summary><b>Precision-Recall Curve</b></summary>
 
 ![PR Curve](training-results/PR_curve.png)
 
 </details>
 
 <details>
-<summary><b>🔍 Confusion Matrix</b></summary>
+<summary><b>Confusion Matrix</b></summary>
 
 <table>
 <tr>
@@ -66,7 +66,7 @@
 
 ---
 
-## 🧠 Supported Classes
+## Supported Classes
 
 > YOLOv8 is trained on 13 flags:
 
