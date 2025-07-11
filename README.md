@@ -48,5 +48,33 @@
 
 ---
 
+</details>
+
+---
+
+## 📂 Dataset Source
+
+The project originally used a small custom-labeled dataset focused on South American flags. To scale the project and improve detection accuracy, we switched to a much larger and publicly available dataset:
+
+- **[Open Images Dataset V6](http://storage.googleapis.com/openimages/web/index.html)** by Google AI
+- Contains thousands of flag instances from various countries and regions with verified bounding boxes
+
+**Reference Paper**  
+Kuznetsova et al., *The Open Images Dataset V6: A Large-Scale Benchmark for Object Detection*, 2018  
+📖 [Read the paper](https://arxiv.org/abs/1811.00982)
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/7mgppp1903/flag-detection-YOLOv8.git
+cd flag-detection-YOLOv8
+
+# Install dependencies
+pip install -r requirements.txt
+pip install ultralytics
+
 
 
