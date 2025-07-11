@@ -1,7 +1,7 @@
-<h1 align="center">🚩 Flag Detection with YOLOv8</h1>
+<h1 align="center">Flag Detection with YOLOv8</h1>
 
 <p align="center">
-  <b>YOLOv8-based object detection model to recognize South American flags 🇧🇷 🇨🇱 🇦🇷 🇵🇪 and more.</b><br>
+  <b>YOLOv8-based object detection model to recognize South American flags.</b><br>
   <i>Trained with custom dataset, evaluated with mAP, PR-curves, and full visual metrics.</i>
 </p>
 
