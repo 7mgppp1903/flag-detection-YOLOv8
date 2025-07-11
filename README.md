@@ -15,8 +15,7 @@
 
 ## What's New?
 
-- Migrated from a small custom-made dataset if South American Flags to the **Open Images Dataset V6** for higher class diversity and image quality
-- Switched from YOLOv8n to **YOLOv8m** for better generalization and performance
+- Migrated from a small custom-made dataset of South American Flags to the **Open Images Dataset V6** for higher class diversity and image quality
 - Expanded scope from regional (South American) flags to **global flag detection**
 
 ---
