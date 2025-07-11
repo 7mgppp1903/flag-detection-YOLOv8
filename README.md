@@ -1,4 +1,4 @@
-<h1 align="center">🏁 Flag Detection using YOLOv8</h1>
+<h1 align="center">Flag Detection using YOLOv8</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/7mgppp1903/flag-detection-YOLOv8?style=for-the-badge" />
@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>Real-time flag detection using YOLOv8 and a large-scale public dataset.</b><br>
-  Accurate, fast, and trained on flags from across the world 🌍
+  Accurate, fast, and trained on flags from across the world
 </p>
 
 ---
@@ -30,11 +30,10 @@
 
 ## Features
 
-- 🎯 YOLOv8m-based detection
-- 🏳️ Trained on a large, real-world global flag dataset
-- 📷 Supports image, video, and webcam input
-- 📊 Visual evaluation with PR curves, confusion matrices, and F1 scores
-- ⚙️ Easily customizable and expandable
+- YOLOv8m-based detection
+- Trained on a large, real-world global flag dataset
+- Supports image, video, and webcam input
+- Visual evaluation with PR curves, confusion matrices, and F1 scores
 
 ---
 
