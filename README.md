@@ -43,7 +43,7 @@
 |--------|-------|
 | **mAP@0.5** | `0.888` |
 | **Best Class** | 🇬🇾 *Guyana Flag* (0.984) |
-| **no of Classes** | 12 |
+| **No of Classes** | 12 |
 
 <details>
 <summary><b>📈 Precision-Recall Curve</b></summary>
