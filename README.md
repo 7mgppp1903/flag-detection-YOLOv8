@@ -76,6 +76,10 @@ All evaluation results and metrics are stored in the `training-results/` folder:
 | `val_batch*_pred.jpg` | Model predictions |
 
 ---
+## Contributors
+
+- [Ishan Chauhan](https://github.com/IntPetro)  
+- [Miilee Sharma](https://github.com/7mgppp1903)
 
 
 
