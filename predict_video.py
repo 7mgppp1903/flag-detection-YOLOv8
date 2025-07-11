@@ -2,9 +2,9 @@ from ultralytics import YOLO
 import cv2
 
 # Paths on Windows
-weights_path = r'C:\Users\Ishan\PycharmProjects\test\funny\runs\detect\train\weights\best.pt'  # Path to your YOLOv8 weights
-video_path = r'C:\Users\Ishan\PycharmProjects\test\funny\video.mp4'  # Path to your input video
-output_path = r'C:\Users\Ishan\PycharmProjects\test\funny\output_video.mp4'  # Path to save the output video
+weights_path = r'C:\Users\Miilee\PycharmProjects\test\funny\runs\detect\train\weights\best.pt'  # Path to your YOLOv8 weights
+video_path = r'C:\Users\Miilee\PycharmProjects\test\funny\video.mp4'  # Path to your input video
+output_path = r'C:\Users\Miilee\PycharmProjects\test\funny\output_video.mp4'  # Path to save the output video
 
 model = YOLO(weights_path)
 cap = cv2.VideoCapture(video_path)
